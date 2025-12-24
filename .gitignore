@@ -1,3 +1,13 @@
-node_modules/
-lib/
-.idea
+# Python cache and virtual environments
+__pycache__/
+*.pyc
+*.py.class
+venv/
+*.env
+
+# Analysis reports
+reports/
+logs/
+
+# Model checkpoints
+models/
